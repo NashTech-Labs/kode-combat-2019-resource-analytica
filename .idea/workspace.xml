@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="773" />
+    <option name="height" value="393" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Challengers/rest" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/LAS-P-lightbend-akka-for-scala-professional-v1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/akka-file-upload-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/akka-samples-persistence-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/knolx-portal" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/knolx-portal-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/scala-01" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/UserManagement-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/KnoldusProjects/ForOffshoreHEB/forecast_manager" value="PREVIEW" />
+        <entry key="$USER_HOME$/KnoldusProjects/fm_admin/backend_api" value="PREVIEW" />
+        <entry key="$USER_HOME$/KnoldusProjects/forecast_manager/backend_api" value="PREVIEW" />
+        <entry key="$USER_HOME$/KnoldusProjects/knowledge-portal-rest" value="PREVIEW" />
+        <entry key="$USER_HOME$/KnoldusProjects/knowledge-portal-ui" value="PREVIEW" />
+        <entry key="$USER_HOME$/knolx-portal-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
